@@ -1,0 +1,1 @@
+D:\Projects\TIO\lab9\ODataClient\ODataClient\bin\Debug\ODataClient.exe.config
